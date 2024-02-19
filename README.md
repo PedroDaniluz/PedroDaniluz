@@ -3,7 +3,7 @@
   <p>
     🚀 I am enrolled in the Computer Engineering course at <a href = https://www.fiap.com.br>FIAP</a>.<br><br>
     ✨ This repository was created with the purpose of recording and documenting my progress in the field of programming.<br><br>
-    👨‍💻 Currently I have been dedicating myself to studying programming languages such as C, C++, Python, JavaScript, and Dart (Flutter). I'm also learning and working with HTML, and CSS.<br><br>
+    👨‍💻 Currently I have been dedicating myself to studying programming languages such as Java, Python, C, C++, JavaScript, and Dart (Flutter). I'm also learning and working with HTML, and CSS.<br><br>
     🛠 Proficient with a diverse array of development and design tools, my toolkit includes VSCode, JetBrains' Softwares, Android Studio, Xcode, as well as design platforms like Figma, CorelDraw, and Illustrator.<br>
   </p>
 </section>
@@ -11,9 +11,10 @@
 <section>
   <h2>🎯 Languages | Frameworks | Tools | Softwares</h2>
   <div>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="pinto" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>

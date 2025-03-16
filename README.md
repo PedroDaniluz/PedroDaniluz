@@ -22,19 +22,19 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css-icon"/>
   </div>
-  <h2>🎨 Design Tools</h2>
+  <h2>🎨UI | Design Tools</h2>
   <div>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma-icon"/>
     <img loading="lazy" src="https://wissens-piloten.de/wp-content/uploads/2023/03/corel-draw-klein.png" width="40" height="40" alt="corel-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40" alt="illustrator-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" alt="photoshop-icon"/>
   </div>
-  <h2>☁️ Cloud & Databases</h2>
+  <h2>☁️ Cloud | Databases</h2>
   <div>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql-icon"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="oracle-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="gcp-icon"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql-icon"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="oracle-icon"/>
   </div>
 </section>
 

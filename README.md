@@ -40,8 +40,8 @@
 
 <section>
     <h2>📌 Contact</h2>
-    <a href = https://www.linkedin.com/in/pedro-daniluz-349a0b267/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
-    <a href = "mailto:pedrodaniluz04@gmail.com?subject=From Git&body=Hi there, I'm here through your github profile..."><img loading="lazy" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" width="40" height="40"/></a>
+    <a href = https://www.linkedin.com/in/pedro-daniluz-349a0b267/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+    <a href = "mailto:pedrodaniluz04@gmail.com?subject=From Git&body=Hi there, I'm here through your github profile..."><img loading="lazy" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" width="40" height="40"/>
 </section>
 
 <section>

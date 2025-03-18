@@ -47,6 +47,6 @@
 <section>
   <h2>🌟 GitHub Stats</h2>
   <a href="https://github.com/PedroDaniluz">
-  <img loading="lazy" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDaniluz&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDaniluz&layout=compact&langs_count=7&theme=dracula&nocache=1">
   </a>
 </section>

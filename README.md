@@ -3,7 +3,7 @@
   <p>
     🚀 I am enrolled in the Computer Engineering course at <a href = https://www.fiap.com.br>FIAP</a>.<br><br>
     ✨ This repository was created with the purpose of recording and documenting my progress in the field of programming.<br><br>
-    💻 I am currently focused on mastering full-stack development. My experience includes working with Python (Django), Java (Spring Boot), JavaScript (React), Dart (Flutter), HTML, and CSS.<br><br>
+    💻 I am currently focused on mastering full-stack development. My experience includes working with Python (Django), Java (Spring Boot), JavaScript & Typescript (React, Angular), Dart (Flutter), HTML, and CSS.<br><br>
     🗄️ I also have hands-on experience with databases such as Oracle and MySQL, as well as cloud computing platforms like AWS and GCP.<br><br>
     🎨 In addition to development, I have experience with design tools like Figma, Photoshop, Illustrator, and CorelDRAW for UI/UX prototyping and digital design.<br>
   </p>
@@ -18,6 +18,7 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" alt="spring-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="django-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="react-icon"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="angular-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="flutter-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html-icon"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css-icon"/>
